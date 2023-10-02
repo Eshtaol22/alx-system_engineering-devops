@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 9-duplicate_last_line | tee -a iacta
+tail -n 1 < iacta >>
