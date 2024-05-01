@@ -82,3 +82,4 @@ if [ "$(pgrep -c nginx)" -le 0 ]; then
 else
 	sudo service nginx restart
 fi
+
