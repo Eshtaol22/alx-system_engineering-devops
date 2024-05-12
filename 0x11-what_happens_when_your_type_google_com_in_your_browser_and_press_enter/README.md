@@ -12,13 +12,3 @@
 - Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
 </details>
-
-<details>
-<summary><a href="./1-what_happen_when_diagram">1. Everything's better with a pretty diagram</a></summary><br>
-
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/52jxys2W/image.png' border='0' alt='image'/></a>
-
-<img src="https://i.imgur.com/i9ivkdo.png" />
-<img src="https://i.imgur.com/R8R3sqC.png" />
-
-</details>
